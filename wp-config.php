@@ -20,6 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('REVISR_GIT_PATH', '&#34;C:\Program Files\Git&#34;'); // Added by Revisr
 define('DB_NAME', 'lhallcsc_knowdb');
 
 /** MySQL database username */
