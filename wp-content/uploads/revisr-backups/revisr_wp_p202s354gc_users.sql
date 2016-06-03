@@ -32,7 +32,7 @@ CREATE TABLE `wp_p202s354gc_users` (
 
 LOCK TABLES `wp_p202s354gc_users` WRITE;
 /*!40000 ALTER TABLE `wp_p202s354gc_users` DISABLE KEYS */;
-INSERT INTO `wp_p202s354gc_users` VALUES (1,'cs633','$P$ByDA5mbkzX9d2uPGhHfavYTb8xzVCS/','cs633','stchavan@gmail.com','','2016-05-22 17:36:46','',0,'cs633');
+INSERT INTO `wp_p202s354gc_users` VALUES (1,'cs633','$P$BGSTa2K0GA/.kUyFxHUJuuXmU.f47K0','cs633','stchavan@gmail.com','','2016-05-22 17:36:46','',0,'cs633');
 /*!40000 ALTER TABLE `wp_p202s354gc_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

@@ -23,7 +23,7 @@ CREATE TABLE `wp_p202s354gc_term_relationships` (
 
 LOCK TABLES `wp_p202s354gc_term_relationships` WRITE;
 /*!40000 ALTER TABLE `wp_p202s354gc_term_relationships` DISABLE KEYS */;
-INSERT INTO `wp_p202s354gc_term_relationships` VALUES (1,1,0),(50,2,0),(43,3,0),(44,3,0),(48,2,0),(49,2,0);
+INSERT INTO `wp_p202s354gc_term_relationships` VALUES (1,1,0),(52,2,0),(43,3,0),(44,3,0),(48,2,0),(49,2,0),(113,35,0),(58,7,0),(74,2,0),(113,33,0),(113,34,0),(113,36,0),(119,2,0),(132,4,0),(132,7,0),(139,41,0),(136,43,0),(139,51,0),(139,52,0),(142,8,0),(170,3,0),(169,3,0),(168,3,0),(166,2,0),(150,2,0);
 /*!40000 ALTER TABLE `wp_p202s354gc_term_relationships` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
